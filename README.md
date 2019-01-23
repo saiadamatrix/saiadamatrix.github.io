@@ -1,7 +1,9 @@
 # Saia da Matrix
 
 ![Logo](images/logo.jpg)
+
 **Humberto Matos**
+
 *["Seja a mudança que vc quer"](https://www.youtube.com/channel/UC3qAUf53j_dUv09jH7jsUJw?view_as=subscriber "Seja a mudança que vc quer")*
 
 Site que reúne as mídias sociais do Canal Saia da Matrix. Aqui temos as plataformas para apoiar e ajudar a manter o Canal reunidas de forma prática. Temos os links para o PodCast do Canal bem como para acompanhar todas as redes sociais do Saia da Matrix.
