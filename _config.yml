@@ -1,3 +1,3 @@
 theme: jekyll-theme-leap-day
-title: <title>
-description: <description>
+title: __title__
+description: __description__
