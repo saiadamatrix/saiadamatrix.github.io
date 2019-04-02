@@ -17,15 +17,6 @@ Site que reúne as mídias sociais do Canal Saia da Matrix. Aqui temos as plataf
 [Instagram](https://www.instagram.com/prof_humberto_matos/)
 
 
-Acompanhe o Saia da Matrix também em Podcast:
-
-[Spotify](https://open.spotify.com/show/5geBc0b4egUMH0SJRQcnr9)
-
-[Podcast](http://humbertosaiadamatrix.libsyn.com/)
-
-[RSS do Podcast](http://humbertosaiadamatrix.libsyn.com/rss)
-
-
 
 ## Apoie o Saia da Matrix!
 *Somente com o apoio daqueles que podem ajudar, o Canal pode se manter no ar*
@@ -43,6 +34,7 @@ Paypal: *gabinpereira@gmail.com*
 * AG: 2266
 * OP: 001
 * CC: 8478-7
+* CPF: 003.789.675.0-9
 
 
 **Contato**: [humbertosaiadamatrix@gmail.com](humbertosaiadamatrix@gmail.com)
