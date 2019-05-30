@@ -19,7 +19,7 @@ Paypal: *gabinpereira@gmail.com*
 * AG: 2266
 * OP: 001
 * CC: 8478-7
-* CPF: 003.789.675.0-9
+* CPF: 003.789.675-09
 
 ## Conecte-se ao Saia da Matrix
 
