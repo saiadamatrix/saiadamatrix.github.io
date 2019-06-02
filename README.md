@@ -1,4 +1,4 @@
-Olá, pessoal. Esse é o site do Canal Saia da Matrix, uma forma que encontrei de reunir todas as mídias sociais do Canal e também todas as plataformas de apoio, para que vocês possam colaboram com nossa existência.
+Olá, pessoal. Esse é o site do Canal Saia da Matrix, uma forma que encontrei de reunir todas as mídias sociais do Canal e também todas as plataformas de apoio, para que vocês possam colaborar com nossa existência.
 
 Apoie o Saia da Matrix!
 
