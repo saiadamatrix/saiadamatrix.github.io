@@ -31,6 +31,9 @@ Paypal: *gabinpereira@gmail.com*
 
 [Instagram](https://www.instagram.com/prof_humberto_matos/)
 
+[Grupo no telegram](https://t.me/humbertosaiadamatrix)
+
+
 
 Não há medida mais socialista que ajudar a militância. As mídias de informação de massa do século XXI precisam ser apropriadas pela esquerda, o capital jamais vai financiar projetos como o Saia da Matrix, desse modo somente com a ajuda de quem pode, o Canal consegue se manter no ar.
 
