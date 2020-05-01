@@ -31,7 +31,7 @@ Paypal: *gabinpereira@gmail.com*
 
 [Instagram](https://www.instagram.com/prof_humberto_matos/)
 
-[Grupo no telegram](https://t.me/humbertosaiadamatrix)
+[Grupo no telegram](https://t.me/humberto_saiadamatrix)
 
 
 
