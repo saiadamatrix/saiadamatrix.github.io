@@ -25,6 +25,8 @@ Paypal: *gabinpereira@gmail.com*
 
 [Youtube](https://www.youtube.com/channel/UC3qAUf53j_dUv09jH7jsUJw?view_as=subscriber)
 
+[Youtube - Canal de cortes](https://www.youtube.com/@cortes_humbertomatos)
+
 [Twitch](https://www.twitch.tv/humberto_matos)
 
 [Facebook](https://www.facebook.com/humbertosaiadamatrix/)
